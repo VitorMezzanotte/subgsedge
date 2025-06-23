@@ -53,7 +53,7 @@ O **Flood Track Solutions** é um sistema embarcado de baixo custo, projetado co
 
 ## 🧪 Código Fonte
 
-O código está no arquivo [`FloodTrackSolutions.ino`](./FloodTrackSolutions.ino) e está devidamente comentado, dizendo o que cada linha do código faz.
+O código está no arquivo [`FloodTrackSolutions.ino`](./FloodTrackSolutions.ino) e está devidamente comentado, dizendo o significado de cada linha do código.
 
 ---
 
